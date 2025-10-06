@@ -1,6 +1,6 @@
 # Redis-CPP
 
-A Redis-like in-memory key-value store implementation in C++, built following the tutorial from [Build Your Own Redis with C/C++](https://build-your-own.org/redis/).
+A Redis-like in-memory key-value store implementation in C++.
 
 ## Overview
 
